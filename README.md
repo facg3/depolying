@@ -30,7 +30,7 @@ Salesforce is also a big player on the past landscape with an offering called "f
 Both Google App Engine and force.com currently allow an application to be built and hosted for free.  
 
 # -What is Heroku-
-### Heroku is a cloud platform that lets companies build, deliver, monitor and scale apps. It is a very fast way to go from idea to URL, bypassing a lot of problems.
+Heroku is a cloud platform that lets companies build, deliver, monitor and scale apps. It is a very fast way to go from idea to URL, bypassing a lot of problems.
 
 # Other similarities to Heroku:
 -Nanobox.io  
