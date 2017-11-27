@@ -1,10 +1,10 @@
 # depolying
  Cloud Computing is where software application, data storage and processing capacity are accessed over the internet.
 
- There are three ways to cloud compute. 
+ There are three ways for cloud computing: 
    - SaaS: Software as a service.
    - PaaS: Platform as a service.
-   - Iaas : Infrastructure as service.
+   - IaaS : Infrastructure as service.
 
 
 All of these allow users to run applications or store data online. However, each offers a different level of user flexibility and control.
