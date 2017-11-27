@@ -20,7 +20,7 @@ Specifically, PaaS allows users to create their own cloud applications using sup
 ## What services are there that can provide you with a platform for your code? And Why is it useful to be able to deploy your code to a cloud platform, rather than running it locally?
 
 
-There are many devices that ann help.For example, Google has a product called App Engine that allows useers to develop, run and maintain their own web applicstions on Google's Infrastructure. 
+There are many devices that can help.For example, Google has a product called App Engine that allows useers to develop, run and maintain their own web applicstions on Google's Infrastructure. 
 
 
 Microsoft also has a PaaS offering called "Azure" which allows users to develop and run windows applications in Microsoft applications in Microsoft's region of the Cloud.
