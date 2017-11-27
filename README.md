@@ -1,5 +1,5 @@
 # depolying
- cloud computing is where software application, data storage and processing capacity are accessed over the internet.
+ Cloud Computing is where software application, data storage and processing capacity are accessed over the internet.
 
  There are three ways to cloud compute. 
    - SaaS: Software as a service.
